@@ -25,6 +25,13 @@ dependencies {
 
     // https://mvnrepository.com/artifact/org.projectlombok/lombok
     compileOnly group: 'org.projectlombok', name: 'lombok', version: '1.18.18'
+    // https://mvnrepository.com/artifact/io.franzbecker/gradle-lombok
+   // implementation group: 'io.franzbecker', name: 'gradle-lombok', version: '4.0.0'
+    // https://mvnrepository.com/artifact/io.freefair.gradle/lombok-plugin
+ //   implementation group: 'io.freefair.gradle', name: 'lombok-plugin', version: '5.3.0'
+
+
+
 
 }
 
